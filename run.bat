@@ -1,0 +1,2 @@
+python DeepLearningIntrusion.py
+pause
